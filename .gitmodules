@@ -1,0 +1,12 @@
+[submodule "util"]
+	path = util
+	url = https://github.com/Persistent-Transational-Memory/util.git
+[submodule "workload"]
+	path = workload
+	url = https://github.com/Persistent-Transational-Memory/workload.git
+[submodule "storage_manager"]
+	path = storage_manager
+	url = https://github.com/Persistent-Transational-Memory/storage_manager.git
+[submodule "transaction_manager"]
+	path = transaction_manager
+	url = https://github.com/Persistent-Transational-Memory/transaction_manager.git
