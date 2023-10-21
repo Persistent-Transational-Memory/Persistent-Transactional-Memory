@@ -10,3 +10,9 @@
 [submodule "transaction_manager"]
 	path = transaction_manager
 	url = https://github.com/Persistent-Transational-Memory/transaction_manager.git
+[submodule "concurrent_control"]
+	path = concurrent_control
+	url = https://github.com/Persistent-Transational-Memory/concurrent_control.git
+[submodule "concurrentqueue"]
+	path = concurrentqueue
+	url = https://github.com/Persistent-Transational-Memory/concurrentqueue.git
