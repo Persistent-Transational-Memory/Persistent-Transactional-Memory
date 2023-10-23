@@ -8,7 +8,7 @@ This project is developed on CentOS 8.5.2111.
 It should work on other Linux distributions as well.
 
 This project requires a C++ compiler with C++20 support. 
-It is known to work with GCC 12.2.0
+It is known to work with GCC 13.1.0
 
 ### Library
 
@@ -25,6 +25,12 @@ There are some unnecessary libraries. You have to remove them from CMakeLists.tx
 
 
 ## Build and Run
+
+### Init submodules
+```shell
+git submodule init
+git submodule update --recursive
+```
 
 ### Preparation
 Before building process, you should execute a python script to detect
